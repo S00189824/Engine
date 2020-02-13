@@ -10,7 +10,7 @@ namespace Engine.Base
     {
         public string ID { get; set; }
         public bool Enabled { get; set; }
-
+        public GameObject Owner { get; set; }
 
         public Component()
         {

@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Engine.Base
+namespace GameClient
 {
-    public class Scene
+    class Class1
     {
     }
 }
